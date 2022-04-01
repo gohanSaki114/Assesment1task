@@ -1,5 +1,4 @@
-﻿
-using Android.Content;
+﻿using Android.Content;
 using Android.OS;
 using Newtonsoft.Json;
 using System.Net.Http;
@@ -27,7 +26,6 @@ namespace Assesment1task
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-          
           
         }
 
